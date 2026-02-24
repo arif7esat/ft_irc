@@ -1,4 +1,4 @@
-# ft_irc — High-Performance TCP/IP Chat Server (C++98)
+# ft_irc — High-Performance TCP/IP Communication Server (C++98)
 
 > *⚠️ **Notice on Source Code Availability:** The source codes for this project are currently hosted on the highly restricted internal servers (Vogsphere) of the 42 Network. Full source code migration to this public repository is scheduled and will be completed soon. Below is the architectural documentation and technical constraints of the project.*
 
